@@ -8,6 +8,9 @@ import java.util.Scanner;
 
 import org.json.JSONObject;
 
+// 추가 코드입니다.
+// 추가를 마음껏 하세요.
+
 public class ChatClient {
 	//필드
 	Socket socket;
